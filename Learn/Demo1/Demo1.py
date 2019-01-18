@@ -82,6 +82,8 @@ if __name__ == '__main__':
     tea.eat()
     tea.run()
     tea.perpclass()
+    temp = tea.getage()
+    print(temp)
     temp = tea.getname()
     print(temp)
 
