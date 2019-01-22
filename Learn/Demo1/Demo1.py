@@ -73,6 +73,7 @@ class Teacher(Person):
     def setage(self, age):
         self.age = age
 
+
 if __name__ == '__main__':
     stu = Student("a",10,1)
     tea = Teacher("b",30,2)
