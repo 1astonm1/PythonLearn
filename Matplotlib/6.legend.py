@@ -21,6 +21,7 @@ plt.ylim(-5, 5)
 plt.xlabel("this is x")
 plt.ylabel("this is y")
 
+#设置坐标轴
 ax = plt.gca()
 ax.spines['right'].set_color("none")
 ax.spines['top'].set_color("none")

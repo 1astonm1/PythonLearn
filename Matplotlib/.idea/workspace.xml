@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f90c58ea-fd62-47d0-883a-29e1798520c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.legend.py" beforeDir="false" afterPath="$PROJECT_DIR$/6.legend.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +24,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/6.legend.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -50,10 +55,11 @@
         <option value="$PROJECT_DIR$/3.setting_xy.py" />
         <option value="$PROJECT_DIR$/legend.py" />
         <option value="$PROJECT_DIR$/5.annotation.py" />
+        <option value="$PROJECT_DIR$/6.legend.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="128" />
     <option name="y" value="46" />
     <option name="width" value="1040" />
@@ -227,6 +233,8 @@
       <workItem from="1548729560626" duration="6109000" />
       <workItem from="1548748804583" duration="37000" />
       <workItem from="1548748851799" duration="15000" />
+      <workItem from="1548749274875" duration="599000" />
+      <workItem from="1548750239979" duration="341000" />
     </task>
     <task id="LOCAL-00001" summary="aaa">
       <created>1548656211717</created>
@@ -239,12 +247,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22209000" />
+    <option name="totallyTimeSpent" value="23149000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20347957" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -318,7 +327,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/6.legend.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
