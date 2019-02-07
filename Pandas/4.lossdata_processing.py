@@ -36,14 +36,14 @@ def checknan(input):
     temp = input.isnull()
     for i in range(inputx):
         for j in range(inputy):
-            if temp.iloc[i, j] is True:
+            if temp.iloc[i, j] == True:
                 true_flag = True
     if true_flag:
-        print("good")
-        processing_flag = 0
+        print("lossdata")
+        processing_flag = 1
     else:
-         print("lossdata")
-         processing_flag = 1
+         print("good")
+         processing_flag = 0
 
 
 checknan(df)
