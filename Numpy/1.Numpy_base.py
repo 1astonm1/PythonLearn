@@ -9,6 +9,8 @@ print(array)
 #基本特征
 print(array.ndim)#维度
 print(array.shape)#行数和列数
+print(array.shape[0])#只输出行数
+print(array.shape[1])#只输出列数
 print(array.size)#元素个数
 
 for i in range(0, 2, 1):
