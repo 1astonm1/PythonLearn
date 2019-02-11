@@ -28,6 +28,7 @@ print(df2)
 ####################################
 # isnull 检测是否有数据缺失，若存在就返回True
 ####################################
+processing_flag = False
 
 def checknan(input):
     true_flag = False
@@ -40,10 +41,18 @@ def checknan(input):
                 true_flag = True
     if true_flag:
         print("lossdata")
-        processing_flag = 1
+        processing_flag = True
     else:
          print("good")
-         processing_flag = 0
+         processing_flag = False
+
+def processing(input):
+    if processing_flag:
+        print("processing")
+        input = input.fillna(value=0)
+    else:
+        print()
+
 
 
 checknan(df)
