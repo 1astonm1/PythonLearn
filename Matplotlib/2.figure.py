@@ -13,6 +13,6 @@ plt.show()
 
 
 plt.figure(num = i)
-plt.plot(x, y2, color = 'blue')
-plt.plot(x, y1, color = 'red', linestyle = '--')
+plt.plot(x, y2, color='blue')
+plt.plot(x, y1, color='red', linestyle='--')
 plt.show()

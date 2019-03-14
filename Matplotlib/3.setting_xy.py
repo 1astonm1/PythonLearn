@@ -26,8 +26,8 @@ ax.spines['right'].set_color("none")    # 清除右边的边框
 ax.spines['top'].set_color("none")      # 清除顶部的边框
 
 
-#调整坐标轴位置
-#方法1：直接设置
+# 调整坐标轴位置
+# 方法1：直接设置
 ax.xaxis.set_ticks_position('default')   # 所有位置：top，bottom，both，default，none
 #方法2：通过set_position来设置
 ax.spines['bottom'].set_position(('data', 0))    # （位置所有属性：outward，axes，data）
