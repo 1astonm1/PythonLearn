@@ -1,7 +1,4 @@
 # -*- coding:utf-8 -*-
-
-
-
 class Person:
     def __init__(self, name, age, num):
         self.name = name
@@ -16,13 +13,15 @@ class Person:
 
     def getname(self):
         return self.name
+
     def setname(self, name):
         self.name = name
+
     def getage(self):
         return self.age
+
     def setage(self, age):
         self.age = age
-
 
 
 class Student(Person):
@@ -42,12 +41,16 @@ class Student(Person):
 
     def getname(self):
         return self.name
+
     def setname(self, name):
         self.name = name
+
     def getage(self):
         return self.age
+
     def setage(self, age):
         self.age = age
+
 
 class Teacher(Person):
     def __init__(self, name, age, num):
@@ -66,17 +69,20 @@ class Teacher(Person):
 
     def getname(self):
         return self.name
+
     def setname(self, name):
         self.name = name
+
     def getage(self):
         return self.age
+
     def setage(self, age):
         self.age = age
 
 
 if __name__ == '__main__':
-    stu = Student("a",10,1)
-    tea = Teacher("b",30,2)
+    stu = Student("a", 10, 1)
+    tea = Teacher("b", 30, 2)
     stu.run()
     stu.eat()
     stu.homework()
