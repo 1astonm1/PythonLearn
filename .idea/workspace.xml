@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5863cacc-6b45-4052-845e-8a837d4a5c33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonBase/magic_method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonBase/Demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBase/Demo1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonBase/Demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBase/Demo2.py" afterDir="false" />
-    </list>
+    <list default="true" id="5863cacc-6b45-4052-845e-8a837d4a5c33" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +30,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PythonBase/magic_method.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
+            <state relative-caret-position="248">
               <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
@@ -276,23 +271,22 @@
       <workItem from="1552553134519" duration="69000" />
       <workItem from="1552980968496" duration="1507000" />
       <workItem from="1552999859323" duration="1641000" />
-      <workItem from="1553046304561" duration="3559000" />
+      <workItem from="1553046304561" duration="4159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15944000" />
+    <option name="totallyTimeSpent" value="16544000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15960665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.29508197" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.29508197" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -449,7 +443,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonBase/magic_method.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
+        <state relative-caret-position="248">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
