@@ -1,3 +1,5 @@
+import numpy as np
+
 
 def read_simple():  # 简单读取，直接写入字符串
     file = open("test.txt", "r")    # 设置文件对象
@@ -32,7 +34,6 @@ def read_by_line_method3():
     data = f.readlines()  # 直接将文件中按行读到list里，效果与方法2一样
     f.close()  # 关闭文件
     print(data)
-
 
 if __name__ == '__main__':
     read_by_line_method1()
