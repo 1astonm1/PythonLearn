@@ -10,7 +10,7 @@ if type(L) == type([]):
     print("L is list")
 if type(L) == list:
     print("L is list")
-if isinstance(L,list):
+if isinstance(L, list):
     print("L is list")
 
 # python中的数据类型：
