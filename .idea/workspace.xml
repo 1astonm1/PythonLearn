@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5863cacc-6b45-4052-845e-8a837d4a5c33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonBase/array/array_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBase/array/array_base.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +15,7 @@
     <SUITE FILE_PATH="coverage/PythonLearn$7_scatter.coverage" NAME="7.scatter Coverage Results" MODIFIED="1553140378326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matplotlib" />
     <SUITE FILE_PATH="coverage/PythonLearn$magic_method.coverage" NAME="magic_method Coverage Results" MODIFIED="1553049552933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase" />
     <SUITE FILE_PATH="coverage/PythonLearn$4_index.coverage" NAME="4.index Coverage Results" MODIFIED="1553000191988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
-    <SUITE FILE_PATH="coverage/PythonLearn$array_base.coverage" NAME="array_base Coverage Results" MODIFIED="1553755063092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase/array" />
+    <SUITE FILE_PATH="coverage/PythonLearn$array_base.coverage" NAME="array_base Coverage Results" MODIFIED="1554205517034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase/array" />
     <SUITE FILE_PATH="coverage/PythonLearn$5_merge.coverage" NAME="5.merge Coverage Results" MODIFIED="1553000237140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
     <SUITE FILE_PATH="coverage/PythonLearn$readfile_txt.coverage" NAME="readfile_txt Coverage Results" MODIFIED="1553742404347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase/ReadFile_txt" />
     <SUITE FILE_PATH="coverage/PythonLearn$1_Label_button.coverage" NAME="1.Label,button Coverage Results" MODIFIED="1552549269412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
@@ -38,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PythonBase/array/array_base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+            <state relative-caret-position="384">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -131,18 +131,6 @@
               <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
-              <item name="base_knowledge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
-              <item name="magicMethod" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -152,7 +140,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deeplearning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -325,16 +313,18 @@
       <workItem from="1553739462925" duration="5823000" />
       <workItem from="1553753288201" duration="2014000" />
       <workItem from="1553758987293" duration="122000" />
+      <workItem from="1554205439486" duration="84000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31450000" />
+    <option name="totallyTimeSpent" value="31534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18229954" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18532526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -595,8 +585,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonBase/array/array_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+        <state relative-caret-position="384">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
