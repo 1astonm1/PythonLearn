@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5863cacc-6b45-4052-845e-8a837d4a5c33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonBase/核心模块/os/os_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonBase/核心模块/os/os_path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonBase/核心模块/os/os_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBase/核心模块/os/os_base.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +27,7 @@
     <SUITE FILE_PATH="coverage/PythonLearn$HOUSE.coverage" NAME="HOUSE Coverage Results" MODIFIED="1553603746741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase/多文件夹的调用方法/house" />
     <SUITE FILE_PATH="coverage/PythonLearn$2_figure.coverage" NAME="2.figure Coverage Results" MODIFIED="1552549316192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matplotlib" />
     <SUITE FILE_PATH="coverage/PythonLearn$6_division.coverage" NAME="6.division Coverage Results" MODIFIED="1553000274303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy" />
+    <SUITE FILE_PATH="coverage/PythonLearn$os_base.coverage" NAME="os_base Coverage Results" MODIFIED="1555317386001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase/核心模块/os" />
     <SUITE FILE_PATH="coverage/PythonLearn$7_plot.coverage" NAME="7.plot Coverage Results" MODIFIED="1552534800305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas" />
     <SUITE FILE_PATH="coverage/PythonLearn$5_concat.coverage" NAME="5.concat Coverage Results" MODIFIED="1552531876959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Pandas" />
     <SUITE FILE_PATH="coverage/PythonLearn$output.coverage" NAME="output Coverage Results" MODIFIED="1553603519967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase/多文件夹的调用方法" />
@@ -39,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/PythonBase/array/array_base.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="50" column="28" lean-forward="true" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -47,8 +50,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PythonBase/核心模块/os/os_base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="188">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonBase/核心模块/os/os_path.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/946249596/nt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="415" column="4" selection-start-line="415" selection-start-column="4" selection-end-line="415" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -105,6 +126,7 @@
         <option value="$PROJECT_DIR$/Numpy/1.Numpy_base.py" />
         <option value="$PROJECT_DIR$/PythonBase/base_knowledge/Demo2.py" />
         <option value="$PROJECT_DIR$/PythonBase/array/array_base.py" />
+        <option value="$PROJECT_DIR$/PythonBase/核心模块/os/os_path.py" />
         <option value="$PROJECT_DIR$/PythonBase/核心模块/os/os_base.py" />
       </list>
     </option>
@@ -141,6 +163,18 @@
               <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
               <item name="核心模块" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
+              <item name="核心模块" type="462c0819:PsiDirectoryNode" />
+              <item name="os" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="Tkinter" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -174,7 +208,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.array_base">
+  <component name="RunManager" selected="Python.os_base">
     <configuration name="CAR" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="output" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="os_base" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,12 +283,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBase/多文件夹的调用方法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonBase/核心模块/os" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBase/多文件夹的调用方法/output.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonBase/核心模块/os/os_base.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.os_base" />
         <item itemvalue="Python.array_base" />
         <item itemvalue="Python.readfile_txt" />
         <item itemvalue="Python.HOUSE" />
         <item itemvalue="Python.CAR" />
-        <item itemvalue="Python.output" />
       </list>
     </recent_temporary>
   </component>
@@ -324,23 +358,23 @@
       <workItem from="1553753288201" duration="2014000" />
       <workItem from="1553758987293" duration="122000" />
       <workItem from="1554205439486" duration="84000" />
-      <workItem from="1555313403438" duration="760000" />
+      <workItem from="1555313403438" duration="3951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32294000" />
+    <option name="totallyTimeSpent" value="35485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18835099" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18835099" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.29508197" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.29508197" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -597,7 +631,7 @@
     <entry file="file://$PROJECT_DIR$/PythonBase/array/array_base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="50" column="28" lean-forward="true" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -608,10 +642,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/946249596/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="415" column="4" selection-start-line="415" selection-start-column="4" selection-end-line="415" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/核心模块/os/os_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PythonBase/核心模块/os/os_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="188">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
