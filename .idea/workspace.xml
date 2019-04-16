@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5863cacc-6b45-4052-845e-8a837d4a5c33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PythonBase/核心模块/re/re_base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -372,12 +371,12 @@
       <workItem from="1553758987293" duration="122000" />
       <workItem from="1554205439486" duration="84000" />
       <workItem from="1555313403438" duration="4533000" />
-      <workItem from="1555399536580" duration="1276000" />
+      <workItem from="1555399536580" duration="1872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37343000" />
+    <option name="totallyTimeSpent" value="37939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
