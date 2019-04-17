@@ -59,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/PythonBase/核心模块/os/os_path.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -68,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/PythonBase/核心模块/re/re_base.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -162,31 +162,6 @@
             <path>
               <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
-              <item name="核心模块" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
-              <item name="核心模块" type="462c0819:PsiDirectoryNode" />
-              <item name="os" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
-              <item name="核心模块" type="462c0819:PsiDirectoryNode" />
-              <item name="re" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -372,17 +347,18 @@
       <workItem from="1554205439486" duration="84000" />
       <workItem from="1555313403438" duration="4533000" />
       <workItem from="1555399536580" duration="1872000" />
+      <workItem from="1555415803119" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37939000" />
+    <option name="totallyTimeSpent" value="37940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19440243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -655,6 +631,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PythonBase/核心模块/os/os_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/946249596/nt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9960">
@@ -669,17 +652,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonBase/核心模块/os/os_path.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PythonBase/核心模块/re/re_base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
