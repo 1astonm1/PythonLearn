@@ -40,5 +40,6 @@ for i in range(0, 2, 1):
 array[0][1] = 10
 print(array)
 
+
 # [[ 1 10  3]
 #  [ 2  3  4]]
