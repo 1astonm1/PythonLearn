@@ -1,5 +1,7 @@
 # -*- coding:utf-8 -*-
 class Person:
+    classname = "Person"   # 定义类内部变量
+
     def __init__(self, name, age, num):
         self.name = name
         self.age = age
@@ -11,17 +13,20 @@ class Person:
     def eat(self):
         print("have dinner")
 
-    def getname(self):
+    def get_name(self):
         return self.name
 
-    def setname(self, name):
+    def set_name(self, name):
         self.name = name
 
-    def getage(self):
+    def get_age(self):
         return self.age
 
-    def setage(self, age):
+    def set_age(self, age):
         self.age = age
+
+    def out_put_classname(self):
+        print(self.classname)   # 使用内部变量进行输出
 
 
 class Student(Person):
@@ -39,16 +44,16 @@ class Student(Person):
     def homework(self):
         print("doing homework")
 
-    def getname(self):
+    def get_name(self):
         return self.name
 
-    def setname(self, name):
+    def set_name(self, name):
         self.name = name
 
-    def getage(self):
+    def get_age(self):
         return self.age
 
-    def setage(self, age):
+    def set_age(self, age):
         self.age = age
 
 
