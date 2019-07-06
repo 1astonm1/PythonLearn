@@ -4,7 +4,7 @@
 # d = {key1 : value1, key2 : value2 }
 
 
-dict = {'a': 1, 'b': 2, 'b': '3'}
+dict = {'a': 1, 'b': 2, 'c': '3'}
 print(dict)
 
 dict = {'Alice': '2341', 'Beth': '9102', 'Cecil': '3258'}

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5863cacc-6b45-4052-845e-8a837d4a5c33" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/PythonLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonLearn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonBase/dictionary/dict_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonBase/dictionary/dict_base.py" afterDir="false" />
     </list>
@@ -43,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PythonBase/dictionary/dict_base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="325">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -103,10 +105,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1385" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -128,12 +130,6 @@
               <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
               <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PythonLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonLearn" type="462c0819:PsiDirectoryNode" />
-              <item name="PythonBase" type="462c0819:PsiDirectoryNode" />
-              <item name="dictionary" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -142,11 +138,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deeplearning" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -326,22 +323,26 @@
       <workItem from="1556020036070" duration="2008000" />
       <workItem from="1556277539378" duration="906000" />
       <workItem from="1556333841124" duration="1675000" />
+      <workItem from="1558921934188" duration="974000" />
+      <workItem from="1558947924729" duration="14000" />
+      <workItem from="1562420983076" duration="1000" />
+      <workItem from="1562421002714" duration="13000" />
+      <workItem from="1562424069475" duration="683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44050000" />
+    <option name="totallyTimeSpent" value="45735000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21255673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22587131" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.29508197" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.29461756" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -371,6 +372,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonLearn$dict_base.coverage" NAME="dict_base Coverage Results" MODIFIED="1558923113232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase/dictionary" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Matplotlib/1.demo.py">
@@ -478,13 +482,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Python/Python37-32/Lib/site-packages/matplotlib/pyplot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="2855" column="30" selection-start-line="2855" selection-start-column="30" selection-end-line="2855" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/Python/Python37-32/Lib/site-packages/matplotlib/pyplot.py" />
     <entry file="file://$PROJECT_DIR$/Matplotlib/7.scatter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -540,16 +538,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Python/Python37-32/Lib/site-packages/numpy/lib/npyio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="1425" selection-start-line="1425" selection-end-line="1425" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://E:/Python/Python37-32/Lib/site-packages/numpy/lib/npyio.py" />
     <entry file="file://$PROJECT_DIR$/PythonBase/ReadFile_txt/test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -630,13 +619,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/946249596/nt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9960">
-          <caret line="415" column="4" selection-start-line="415" selection-start-column="4" selection-end-line="415" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/946249596/nt.py" />
     <entry file="file://$PROJECT_DIR$/PythonBase/base_knowledge/Demo2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -646,8 +629,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonBase/dictionary/dict_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
