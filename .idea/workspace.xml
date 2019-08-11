@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5863cacc-6b45-4052-845e-8a837d4a5c33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/webSpider/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webSpider/Test1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webSpider/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/webSpider/demo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +81,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo (1)">
+  <component name="RunManager" selected="Python.Test1">
+    <configuration name="Test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/webSpider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webSpider/Test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,35 +192,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLearn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkinter/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Test1" />
         <item itemvalue="Python.demo (1)" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.os_path" />
         <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -253,6 +254,8 @@
       <workItem from="1564193920355" duration="42000" />
       <workItem from="1565354008450" duration="5724000" />
       <workItem from="1565361498448" duration="1106000" />
+      <workItem from="1565405138131" duration="5150000" />
+      <workItem from="1565503141168" duration="614000" />
     </task>
     <servers />
   </component>
@@ -286,8 +289,9 @@
     <SUITE FILE_PATH="coverage/PythonLearn$demo.coverage" NAME="demo Coverage Results" MODIFIED="1565356084673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase/多文件处理" />
     <SUITE FILE_PATH="coverage/PythonLearn$test.coverage" NAME="test Coverage Results" MODIFIED="1562771059586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter" />
     <SUITE FILE_PATH="coverage/PythonLearn$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1565354850987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tqdm" />
+    <SUITE FILE_PATH="coverage/PythonLearn$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1565417190536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webSpider" />
     <SUITE FILE_PATH="coverage/PythonLearn$os_path.coverage" NAME="os_path Coverage Results" MODIFIED="1565355297583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase/核心模块/os" />
     <SUITE FILE_PATH="coverage/PythonLearn$dict_base.coverage" NAME="dict_base Coverage Results" MODIFIED="1558923113232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonBase/dictionary" />
-    <SUITE FILE_PATH="coverage/PythonLearn$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1565362598009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webSpider" />
+    <SUITE FILE_PATH="coverage/PythonLearn$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1565415417097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webSpider" />
   </component>
 </project>
